@@ -18,3 +18,7 @@ To create the interactive quiz application, I used HTML to structure the layout,
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/f8113022-f80b-4fb1-ba0b-a7c31f6ace93)
+
+![Image](https://github.com/user-attachments/assets/f2908be5-7e73-46c0-9f89-ade2bbfa7606)
+
+![Image](https://github.com/user-attachments/assets/ecc00997-d94d-4ea5-a9ce-154529d76fb1)
