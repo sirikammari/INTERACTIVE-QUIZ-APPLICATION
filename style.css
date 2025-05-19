@@ -1,0 +1,57 @@
+body{
+    background: #001e4d;
+}
+.app{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 15px;
+    padding: 30px;
+}
+.app h1{
+    font-family: Georgia;
+    color: #001e4d;
+    font-weight: 500;
+    border-bottom:1px solid #333;
+    padding-bottom: 30px;
+}
+.quiz{
+    padding: 10PX 0;
+}
+.quiz h2{ 
+    font-family: Georgia;
+    color: #185153;
+    font-weight: 500;
+}
+.btn{
+    font-family: 'Gill Sans';
+    color: #fff;
+    background: #133f68;
+    border-radius: 10px;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 5px 0;
+    text-align: center;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #ffc996;
+    color: #131111;
+}
+#next-btn{
+    background: #133f68;
+    color: #fff;
+    border-radius: 4px;
+    width: 150px;
+    padding: 10px;
+    margin: 20px auto 0;
+    display: none;
+}
+#next-btn:hover{
+    background: #fff;
+    color: #131111;
+    cursor: pointer;
+}
